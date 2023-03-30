@@ -35,6 +35,10 @@ li {
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 20px;
 }
+.services {
+  margin: 30px;
+  text-align: center;
+}
 @media (max-width: 900px) {
   .boxes {
     grid-template-columns: 1fr;
