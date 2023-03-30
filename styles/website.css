@@ -36,8 +36,10 @@ li {
   grid-gap: 20px;
 }
 .services {
+  background-color: aliceblue;
   margin: 30px;
   text-align: center;
+  padding: 50px;
 }
 @media (max-width: 900px) {
   .boxes {
