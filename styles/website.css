@@ -23,23 +23,30 @@ li {
 }
 .box {
   display: flex;
-  background-color: azure;
+  background-color: aliceblue;
   align-items: center;
   border-radius: 10px;
   margin: 0;
   justify-content: center;
-  height: 120px;
 }
 .boxes {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 20px;
 }
+.btn-branding {
+  background: #a9def9;
+  padding: 10px;
+  border-radius: 10px;
+}
 .services {
   background-color: aliceblue;
   margin: 30px;
   text-align: center;
   padding: 50px;
+}
+.footer {
+  text-align: center;
 }
 @media (max-width: 900px) {
   .boxes {
