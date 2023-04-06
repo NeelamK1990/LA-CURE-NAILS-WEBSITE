@@ -57,6 +57,9 @@ li {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
 }
+.grid-3-columns {
+  grid-gap: 20px;
+}
 .img-fluid {
   width: 800;
   display: block;
