@@ -46,7 +46,7 @@ li {
 .contact-section {
   color: white;
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5)),
-    url("../images/princess-nail.jpg");
+    url("../images/cover.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   max-width: 1380px;
@@ -61,7 +61,7 @@ li {
   width: 800;
   display: block;
   margin: 0 auto;
-  border-radius: 10px;
+  border-radius: 5px;
 }
 .content-section h1 {
   font-size: 35px;
