@@ -31,6 +31,9 @@ li {
   margin: 0;
   padding: 0;
 }
+main {
+  text-align: center;
+}
 
 .btn-branding {
   background: #a9def9;
@@ -43,6 +46,7 @@ li {
   text-align: center;
   padding: 50px;
 }
+
 .contact-section {
   color: white;
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5)),
