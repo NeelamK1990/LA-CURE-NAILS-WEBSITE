@@ -91,3 +91,14 @@ main {
 .footer {
   text-align: center;
 }
+.logo {
+  font-size: 40px;
+  padding: 30px;
+}
+nav li {
+  display: inline;
+}
+nav ul {
+  margin: 0;
+  padding: 30px;
+}
