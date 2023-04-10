@@ -1,7 +1,7 @@
 body {
   background: #52796f;
 }
-.container {
+.hero {
   background-color: #95d5b2;
   padding: 30px;
   max-width: 1400px;
@@ -28,8 +28,6 @@ ul {
 }
 li {
   list-style: none;
-  margin: 0;
-  padding: 0;
 }
 main {
   text-align: center;
@@ -91,14 +89,20 @@ main {
 .footer {
   text-align: center;
 }
-.logo {
-  font-size: 40px;
-  padding: 30px;
+.menu-bar {
+  padding: 20px;
 }
-nav li {
-  display: inline;
+.logo {
+  max-width: 200px;
+}
+nav {
+  padding: 30px 0;
 }
 nav ul {
   margin: 0;
-  padding: 30px;
+  padding: 0;
+}
+nav li {
+  display: inline;
+  line-height: 42px;
 }
