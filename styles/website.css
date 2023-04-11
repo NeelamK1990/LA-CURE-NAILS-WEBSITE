@@ -125,3 +125,24 @@ nav a:hover {
 nav li.active a {
   color: black;
 }
+@media (max-width: 960px) {
+  nav li {
+    font-size: 10px;
+  }
+  nav {
+    padding: 0;
+  }
+  .grid-2-columns {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 10px;
+    padding: 0;
+  }
+  .content-section h1 {
+    font-size: 25px;
+  }
+  .content-section p {
+    line-height: 1.5;
+    font-size: 12px;
+  }
+}
