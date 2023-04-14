@@ -32,6 +32,10 @@ li {
 main {
   text-align: center;
 }
+i {
+  font-size: 30px;
+  color: #52796f;
+}
 
 .btn-branding {
   background: #52796f;
@@ -89,6 +93,9 @@ main {
   display: block;
   margin: 0 auto;
   border-radius: 5px;
+}
+.content-section {
+  border: 1px solid white;
 }
 .content-section h1 {
   font-size: 35px;
@@ -157,6 +164,9 @@ nav li.active a {
   .content-section p {
     line-height: 1.5;
     font-size: 12px;
+  }
+  .contact-section h3 {
+    font-size: 14px;
   }
   .boxes {
     grid-template-columns: 1fr;
