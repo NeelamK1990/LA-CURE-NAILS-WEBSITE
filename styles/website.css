@@ -63,7 +63,7 @@ i {
 .contact-section {
   color: white;
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5)),
-    url("../images/cover.jpeg");
+    url("../images/gel-nails-vs-acrylic-nails.webp");
   background-repeat: no-repeat;
   background-size: cover;
   max-width: 1380px;
@@ -164,7 +164,9 @@ nav li.active a {
   .content-section p {
     line-height: 1.5;
     font-size: 12px;
+    text-align: center;
   }
+
   .contact-section h3 {
     font-size: 14px;
   }
