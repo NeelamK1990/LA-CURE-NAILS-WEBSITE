@@ -10,7 +10,10 @@ body {
 .hero a {
   color: white;
 }
-
+.hero a:hover {
+  color: black;
+  cursor: pointer;
+}
 h1 {
   font-family: "Playfair Display SC", serif;
   text-align: center;
