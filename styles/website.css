@@ -42,6 +42,9 @@ i {
   font-size: 30px;
   color: #52796f;
 }
+strong {
+  font-family: Tangerine, cursive;
+}
 
 .btn-branding {
   background: #52796f;
